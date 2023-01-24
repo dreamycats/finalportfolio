@@ -14,7 +14,7 @@
     "styled-components": "^5.3.6",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "http://muramibrahim.github.io/final"
+  "homepage": "http://dreamycats.github.io/final",
 
   "scripts": {
     "start": "react-scripts start",
